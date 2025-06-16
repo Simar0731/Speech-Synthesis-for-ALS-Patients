@@ -1,0 +1,14 @@
+fonttools
+gradio
+pygame
+pywebview
+mat73
+numpy
+scikit-learn
+tensorflow
+torchaudio
+soundfile
+scipy
+joblib
+kokoro-tts 
+torch
